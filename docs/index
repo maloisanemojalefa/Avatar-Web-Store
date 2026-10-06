@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Avatar-Web Store | Websites from R750 - 24hr Delivery</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+</head><body class="bg-[#F9F9F7] text-black">
+
+<header class="sticky top-0 z-50 bg-[#0A0A0A] text-white px-4 py-3 flex justify-between items-center">
+<div class="flex items-center gap-2"><div class="bg-[#7C3AED] w-8 h-8 rounded-full flex items-center justify-center font-black text-xs">A</div><div class="font-black leading-none">AVATAR-WEB<br><span class="text-[9px] tracking-[2px] font-normal text-[#A78BFA]">STORE • 24HR WEBSITES</span></div></div>
+<a href="https://wa.me/27741100033?text=Hi%20Avatar-Web%20Store%2C%20I%20want%20a%20website%20for%20my%20business" class="bg-[#7C3AED] text-white px-4 py-2 rounded-full text-xs font-bold">WhatsApp Order</a>
+</header>
+
+<section class="bg-[#7C3AED] px-6 py-10 text-center text-white">
+<h1 class="text-3xl font-black leading-none">WE TURN YOUR<br>GOOGLE BUSINESS<br>INTO A REAL WEBSITE</h1>
+<p class="text-sm mt-3 text-[#DDD6FE]">Avatar-Web Store • From R750 • Ready in 24hrs • Change price & photos yourself</p>
+<div class="mt-4 flex justify-center gap-2 text-[10px]"><span class="bg-black text-white px-3 py-1 rounded-full">No meetings needed</span><span class="bg-white text-black px-3 py-1 rounded-full">Pay after you see it</span></div>
+</section>
+
+<section class="max-w-6xl mx-auto px-4 py-8">
+<h2 class="font-black text-xl">Avatar-Web Store: 6 Templates Ready</h2>
+<p class="text-xs text-gray-500 mt-1">Built by Avatar — Click "Get This" — WhatsApp opens with your order ready</p>
+
+<div class="grid md:grid-cols-3 gap-4 mt-6">
+
+<!-- 1 B&B -->
+<div class="bg-white border rounded-2xl overflow-hidden shadow-sm"><div class="h-36 bg-cover" style="background-image:url('https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=600')"></div><div class="p-4"><div class="flex justify-between"><span class="bg-green-100 text-green-700 text-[9px] px-2 py-1 rounded-full font-bold">BEST SELLER</span><span class="text-xs font-bold">R1,500</span></div><h3 class="font-bold text-sm mt-2">B&B / Guesthouse</h3><p class="text-[11px] text-gray-500">Like Khaya B&B Mandalay - R530/night, WhatsApp booking, Owner can change price & password</p><div class="mt-3 flex gap-2 text-[9px]"><span class="bg-[#F5F5F3] px-2 py-1 rounded">Free Breakfast</span><span class="bg-[#F5F5F3] px-2 py-1 rounded">Free Parking</span></div><a href="https://wa.me/27741100033?text=Hi%20Avatar-Web%20Store%2C%20I%20want%20B%26B%20website%20like%20Khaya%20R530%20example" class="mt-3 block bg-black text-white text-center py-2.5 rounded-full text-xs font-bold">Get This For My B&B →</a></div></div>
+
+<!-- 2 Hardware -->
+<div class="bg-white border rounded-2xl overflow-hidden shadow-sm"><div class="h-36 bg-cover" style="background-image:url('https://images.unsplash.com/photo-1581244277943-fe4a9c777189?w=600')"></div><div class="p-4"><div class="flex justify-between"><span class="bg-yellow-100 text-yellow-700 text-[9px] px-2 py-1 rounded-full font-bold">BUILDERS DEMO</span><span class="text-xs font-bold">R2,000</span></div><h3 class="font-bold text-sm mt-2">Hardware / Building Supply</h3><p class="text-[11px] text-gray-500">Like Builders Tygervalley - 131 Joubert St, Delivery, Same-day, NFC, Free parking</p><div class="mt-3 flex gap-2 text-[9px]"><span class="bg-[#F5F5F3] px-2 py-1 rounded">Delivery</span><span class="bg-[#F5F5F3] px-2 py-1 rounded">In-store pick-up</span></div><a href="https://wa.me/27741100033?text=Hi%20Avatar-Web%20Store%2C%20I%20want%20Hardware%20website%20like%20Builders%20Tygervalley" class="mt-3 block bg-black text-white text-center py-2.5 rounded-full text-xs font-bold">Get This For My Shop →</a></div></div>
+
+<!-- 3 Restaurant -->
+<div class="bg-white border rounded-2xl overflow-hidden shadow-sm"><div class="h-36 bg-cover" style="background-image:url('https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600')"></div><div class="p-4"><div class="flex justify-between"><span class="bg-red-100 text-red-700 text-[9px] px-2 py-1 rounded-full font-bold">HOT DEMAND</span><span class="text-xs font-bold">R1,200</span></div><h3 class="font-bold text-sm mt-2">Restaurant / Kota / Shisa Nyama</h3><p class="text-[11px] text-gray-500">Menu + WhatsApp order + Quick visit + Location. Clients order food online</p><div class="mt-3 flex gap-2 text-[9px]"><span class="bg-[#F5F5F3] px-2 py-1 rounded">Menu</span><span class="bg-[#F5F5F3] px-2 py-1 rounded">WhatsApp Order</span></div><a href="https://wa.me/27741100033?text=Hi%20Avatar-Web%20Store%2C%20I%20want%20Restaurant%20website%20with%20menu%20and%20WhatsApp%20order" class="mt-3 block bg-[#7C3AED] text-white text-center py-2.5 rounded-full text-xs font-bold">Get This For My Restaurant →</a></div></div>
+
+<!-- 4 Panel Beater -->
+<div class="bg-white border rounded-2xl overflow-hidden shadow-sm"><div class="h-36 bg-cover" style="background-image:url('https://images.unsplash.com/photo-1619642751034-765df7c58e?w=600')"></div><div class="p-4"><div class="flex justify-between"><span class="bg-blue-100 text-blue-700 text-[9px] px-2 py-1 rounded-full font-bold">HIGH TICKET</span><span class="text-xs font-bold">R2,000</span></div><h3 class="font-bold text-sm mt-2">Panel Beater / Mechanic / Car Wash</h3><p class="text-[11px] text-gray-500">Before/After photos, Services, Tow, Quote on WhatsApp. Most needed in Parow</p><div class="mt-3 flex gap-2 text-[9px]"><span class="bg-[#F5F5F3] px-2 py-1 rounded">Spray Painting</span><span class="bg-[#F5F5F3] px-2 py-1 rounded">Towing</span></div><a href="https://wa.me/27741100033?text=Hi%20Avatar-Web%20Store%2C%20I%20want%20Panel%20Beater%20%2F%20Mechanic%20website" class="mt-3 block bg-black text-white text-center py-2.5 rounded-full text-xs font-bold">Get This For My Garage →</a></div></div>
+
+<!-- 5 Salon -->
+<div class="bg-white border rounded-2xl overflow-hidden shadow-sm"><div class="h-36 bg-cover" style="background-image:url('https://images.unsplash.com/photo-1560869713-7d0a29430803?w=600')"></div><div class="p-4"><div class="flex justify-between"><span class="bg-pink-100 text-pink-700 text-[9px] px-2 py-1 rounded-full font-bold">EASY SELL</span><span class="text-xs font-bold">R750</span></div><h3 class="font-bold text-sm mt-2">Salon / Barber / Nails</h3><p class="text-[11px] text-gray-500">Price list + Gallery + Booking on WhatsApp. Girls book in 1 click</p><div class="mt-3 flex gap-2 text-[9px]"><span class="bg-[#F5F5F3] px-2 py-1 rounded">R150 Braids</span><span class="bg-[#F5F5F3] px-2 py-1 rounded">Booking</span></div><a href="https://wa.me/27741100033?text=Hi%20Avatar-Web%20Store%2C%20I%20want%20Salon%20website%20with%20price%20list%20and%20booking" class="mt-3 block bg-black text-white text-center py-2.5 rounded-full text-xs font-bold">Get This For My Salon →</a></div></div>
+
+<!-- 6 Driving / Funeral -->
+<div class="bg-white border rounded-2xl overflow-hidden shadow-sm"><div class="h-36 bg-cover" style="background-image:url('https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=600')"></div><div class="p-4"><div class="flex justify-between"><span class="bg-gray-200 text-gray-700 text-[9px] px-2 py-1 rounded-full font-bold">TOWNSHIP DEMAND</span><span class="text-xs font-bold">R1,000</span></div><h3 class="font-bold text-sm mt-2">Driving School / Funeral / Towing</h3><p class="text-[11px] text-gray-500">Code 10, Prices per lesson, Call now button. Funeral cover + Contact</p><div class="mt-3 flex gap-2 text-[9px]"><span class="bg-[#F5F5F3] px-2 py-1 rounded">Code 8/10</span><span class="bg-[#F5F5F3] px-2 py-1 rounded">24hr Tow</span></div><a href="https://wa.me/27741100033?text=Hi%20Avatar-Web%20Store%2C%20I%20want%20Driving%20School%20%2F%20Funeral%20website" class="mt-3 block bg-black text-white text-center py-2.5 rounded-full text-xs font-bold">Get This For My Service →</a></div></div>
+
+</div>
+</section>
+
+<section class="bg-black text-white px-6 py-8"><div class="max-w-6xl mx-auto grid md:grid-cols-3 gap-6"><div><h3 class="font-bold text-sm text-[#A78BFA]">How Avatar-Web Works</h3><p class="text-xs text-gray-400 mt-2">1. Click Get This → WhatsApp opens<br>2. Send business name + 3 photos<br>3. Avatar builds in 24hrs & sends live link<br>4. You pay after you like it</p></div><div><h3 class="font-bold text-sm text-[#A78BFA]">Owner Can Do Alone</h3><p class="text-xs text-gray-400 mt-2">✓ Change price (like R530)<br>✓ Add photos / products<br>✓ Change password<br>✓ No need to call Avatar</p></div><div class="bg-[#7C3AED] p-4 rounded-xl"><h3 class="font-bold text-sm">Proof: Khaya B&B Mandalay</h3><p class="text-xs mt-1 text-[#DDD6FE]">Live example: R530/night, Mandalay, 074 110 0033, free breakfast/parking/Wi-Fi — built by Avatar-Web Store in 1 day</p></div></div></section>
+
+<footer class="p-6 text-center text-[10px] text-gray-500">Avatar-Web Store • Cape Town • WhatsApp: 27741100033 • Replace number in code with yours • All templates include owner portal</footer>
+</body></html>
